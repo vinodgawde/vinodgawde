@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-vinodgawde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinodgawde/)](https://www.linkedin.com/in/vinodgawde/)
 
 ## Hello 👋, 
-I'm Vinod Gawde, I'm a Full Stack Python Developer 👨‍💻 who is passionate about new technologies and its entire ecosystem. 
+I'm Vinod Gawde, I'm a Python Full Stack Developer 👨‍💻 who is passionate about new technologies and its entire ecosystem. 
 
 - 🔭 I’m currently working on Django Framework.
 - 🌱 I’m currently learning NodeJS, MongoDb and of course Python improvements.

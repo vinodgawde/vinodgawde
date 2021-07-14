@@ -5,7 +5,7 @@
 I'm Vinod Gawde, I'm a Python Full Stack Developer 👨‍💻 who is passionate about new technologies and their entire ecosystem. 
 
 - 🔭 I’m currently working on Django Framework.
-- 🌱 I’m currently learning NodeJS, MongoDB and of course Python improvements.
+- 🌱 I’m currently learning NodeJS, MongoDB, AWS and of course Python improvements.
 - 💬 Ask me about painting, carving, and a little bit about Fitness & Nutrition💪.
 -  ⚡ Technologies: Bootstrap, jQuery, MySQl, Linux.
 
